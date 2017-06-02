@@ -3,10 +3,9 @@
 // @description Мой самый первый юзерскрипт 
 // @author Maxim Bezrukavnikov
 // @license GNU v3
-// @version 1.03
-// @include https://*.habrahabr.ru/*
-// @include https://habrahabr.ru*
-// @include https://*.steamgifts.com/*
+// @version 1.04
+// @include https://habrahabr.ru/*
+// @include https://www.steamgifts.com/*
 
 // ==/UserScript==
 // [1] Оборачиваем скрипт в замыкание, для кроссбраузерности (opera, ie)

@@ -13,7 +13,7 @@
 // @include https://www.steamgifts.com/*
 // @include https://steamcommunity.com/*
 // @include http://steamcommunity.com/*
-// @include http://www.indiegala.com/*
+// @include https://www.indiegala.com/*
 // @include https://www.alienwarearena.com/*
 // @include https://marvelousga.com/*
 // @include https://simplo.gg/*

@@ -14,12 +14,8 @@
 // ==/UserScript==
 
 var logo = document.createElement(«div»);
-logo.innerHTML = '
-<div style=«margin: 0pt auto; width: 800px; text-align: center;»>
-<h1 style=«margin: 15px;»>' +
+logo.innerHTML = '<div style=«margin: 0pt auto; width: 800px; text-align: center;»><h1 style=«margin: 15px;»>' +
 'Hello World habrahabr! ' +
-'</h1>
-</div>
-';
+'</h1></div>';
 
 document.body.insertBefore(logo, document.body.firstChild);

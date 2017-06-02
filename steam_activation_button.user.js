@@ -7,7 +7,7 @@
 // @updateURL https://raw.githubusercontent.com/DEMENT0R/steam_activation_button/master/steam_activation_button.user.js
 // @resource KeyIcon https://raw.githubusercontent.com/DEMENT0R/steam_activation_button/master/key.png
 // @license GNU v3
-// @version 1.014
+// @version 1.015
 // @include habrahabr.ru/*
 // @include www.steamgifts.com/*
 // @include https://www.steamgifts.com/*
@@ -29,7 +29,7 @@
 
     var logo = document.createElement("div");
 logo.innerHTML = '<div style="border:none solid gray; width: 32px; height:32px; right:10px; border-radius:5px; position:fixed; top:3%; z-index:2000; background: #fff;">' +
-    '<a href="steam://open/activateproduct"><img src="https://raw.githubusercontent.com/DEMENT0R/steam_activation_button/master/key.png" align="center" width="32px" height="32px" alt="Input Key" /></a>' + 
+    '<a href="steam://open/activateproduct"><img src="https://raw.githubusercontent.com/DEMENT0R/steam_activation_button/master/key.png" align="center" width="32px" height="32px" alt="Input Key" title="Input Key" /></a>' + 
     '</div>';
 
 document.body.insertBefore(logo, document.body.firstChild);

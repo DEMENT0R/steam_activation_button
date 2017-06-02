@@ -2,7 +2,14 @@
 
 This script adds steam activation button on sites:
 <ul>
-<li>habrahabr.ru</li>
+<li>www.steamgifts.com</li>
+<li>steamcommunity.com</li>
+<li>www.alienwarearena.com</li>
+<li>www.indiegala.com</li>
+<li>marvelousga.com</li>
+<li>simplo.gg</li>
+<li>gleam.io</li>
+<li>pikabu.ru</li>
 </ul>
 
 <h1>Installation</h1>

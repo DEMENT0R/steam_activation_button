@@ -2,10 +2,10 @@
 
 This script adds steam activation button on sites:
 <ul>
-<li>www.steamgifts.com</li>
+<li>steamgifts.com</li>
 <li>steamcommunity.com</li>
-<li>www.alienwarearena.com</li>
-<li>www.indiegala.com</li>
+<li>alienwarearena.com</li>
+<li>indiegala.com</li>
 <li>marvelousga.com</li>
 <li>simplo.gg</li>
 <li>gleam.io</li>

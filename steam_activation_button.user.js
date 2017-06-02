@@ -10,6 +10,7 @@
 // @include https://steamcommunity.com/*
 // @include http://steamcommunity.com/*
 // @include http://pikabu.ru/*
+// @include https://www.alienwarearena.com/*
 // ==/UserScript==
 // [1] Оборачиваем скрипт в замыкание, для кроссбраузерности (opera, ie)
 (function (window, undefined) {  // [2] нормализуем window

@@ -7,7 +7,7 @@
 // @include https://userscripts.org/*
 // @include https://*.habrahabr.ru/*
 // @include https://habrahabr.ru*
-// @include https://*.steamgifts.ru/*
+// @include https://*.steamgifts.com/*
 
 // ==/UserScript==
 // [1] Оборачиваем скрипт в замыкание, для кроссбраузерности (opera, ie)

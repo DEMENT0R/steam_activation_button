@@ -7,14 +7,18 @@
 // @updateURL https://raw.githubusercontent.com/DEMENT0R/steam_activation_button/master/steam_activation_button.user.js
 // @resource KeyIcon https://raw.githubusercontent.com/DEMENT0R/steam_activation_button/master/key.png
 // @license GNU v3
-// @version 1.013
+// @version 1.014
 // @include habrahabr.ru/*
 // @include www.steamgifts.com/*
 // @include https://www.steamgifts.com/*
 // @include https://steamcommunity.com/*
 // @include http://steamcommunity.com/*
-// @include http://pikabu.ru/*
+// @include http://www.indiegala.com/*
 // @include https://www.alienwarearena.com/*
+// @include https://marvelousga.com/*
+// @include https://simplo.gg/*
+// @include https://gleam.io/*
+// @include http://pikabu.ru/*
 // ==/UserScript==
 
 //https://steamuserimages-a.akamaihd.net/ugc/775029780384927193/6521F582D9EFF8E5BB747F8B940810F42DB597AF/

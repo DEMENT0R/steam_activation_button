@@ -3,7 +3,7 @@
 // @description Мой самый первый юзерскрипт 
 // @author Maxim Bezrukavnikov
 // @license GNU v3
-// @version 1.010
+// @version 1.011
 // @include habrahabr.ru/*
 // @include www.steamgifts.com/*
 // @include https://www.steamgifts.com/*

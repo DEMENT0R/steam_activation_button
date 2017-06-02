@@ -5,8 +5,9 @@
 // @license GNU v3
 // @version 1.0
 // @include http://userscripts.org/*
-// @include http://*habrahabr.ru/*
-// @include http://*steamgifts.ru/*
+// @include http://*.habrahabr.ru/*
+// @include http://habrahabr.ru*
+// @include http://*.steamgifts.ru/*
 
 // ==/UserScript==
 // [1] Оборачиваем скрипт в замыкание, для кроссбраузерности (opera, ie)

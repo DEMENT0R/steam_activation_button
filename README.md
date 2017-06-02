@@ -1,6 +1,9 @@
 <h1>Steam activation button</h1>
 
-This script adds steam activation button
+This script adds steam activation button on sites:
+<ol>
+<li>habrahabr.ru</li>
+</ol>
 
 <h1>Installation</h1>
 

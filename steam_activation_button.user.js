@@ -3,7 +3,7 @@
 // @description Мой самый первый юзерскрипт 
 // @author Maxim Bezrukavnikov
 // @license GNU v3
-// @version 1.01
+// @version 1.02
 // @include https://userscripts.org/*
 // @include https://*.habrahabr.ru/*
 // @include https://habrahabr.ru*

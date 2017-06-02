@@ -6,6 +6,7 @@
 // @version 1.001
 // @include habrahabr.ru/*
 // @include www.steamgifts.com/*
+// @include https://www.steamgifts.com/*
 // @include steamcommunity.com/*
 // @include pikabu.ru/*
 // ==/UserScript==

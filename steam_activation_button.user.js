@@ -3,12 +3,13 @@
 // @description Мой самый первый юзерскрипт 
 // @author Maxim Bezrukavnikov
 // @license GNU v3
-// @version 1.002
+// @version 1.003
 // @include habrahabr.ru/*
 // @include www.steamgifts.com/*
 // @include https://www.steamgifts.com/*
-// @include steamcommunity.com/*
-// @include pikabu.ru/*
+// @include https://steamcommunity.com/*
+// @include http://steamcommunity.com/*
+// @include https://pikabu.ru/*
 // ==/UserScript==
 // [1] Оборачиваем скрипт в замыкание, для кроссбраузерности (opera, ie)
 (function (window, undefined) {  // [2] нормализуем window

@@ -20,6 +20,6 @@
     border-radius: 0 5px 5px 0;
     }
 
-#panel:hover {
+#steam_button:hover {
     right: 30px; /* при наведении выдвигается на скрытые 200px + 20px отступы */
 }

@@ -1,5 +1,5 @@
 /* ВНЕШНИЙ БЛОК */
-#steam_button {
+#steambutton {
     border:none solid gray; 
     width: 32px; 
     height:32px; 
@@ -20,6 +20,6 @@
     border-radius: 0 5px 5px 0;
     }
 
-#steam_button:hover {
+#steambutton:hover {
     right: 30px; /* при наведении выдвигается на скрытые 200px + 20px отступы */
 }

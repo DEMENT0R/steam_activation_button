@@ -18,6 +18,7 @@
 // @include https://marvelousga.com/*
 // @include https://simplo.gg/*
 // @include https://gleam.io/*
+// @include https://github.com/*
 // @include http://pikabu.ru/*
 // ==/UserScript==
 

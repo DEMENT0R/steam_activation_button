@@ -5,11 +5,9 @@
 // @author DEMENT0R
 // @downloadURL https://github.com/DEMENT0R/steam_activation_button/raw/master/steam_activation_button.user.js
 // @updateURL https://github.com/DEMENT0R/steam_activation_button/raw/master/steam_activation_button.user.js
-// @resource KeyIcon https://github.com/DEMENT0R/steam_activation_button/raw/master/key.png
-// @resource ListIcon https://github.com/DEMENT0R/steam_activation_button/raw/master/list.png
 // @resource myCustomCss https://github.com/DEMENT0R/steam_activation_button/raw/master/custom.css
 // @license GNU v3
-// @version 1.027
+// @version 1.028
 // @include     http://*
 // @include     https://*
 // ==/UserScript==

@@ -9,7 +9,7 @@
 // @resource ListIcon https://github.com/DEMENT0R/steam_activation_button/raw/master/list.png
 // @resource myCustomCss https://github.com/DEMENT0R/steam_activation_button/raw/master/custom.css
 // @license GNU v3
-// @version 1.019
+// @version 1.020
 // @include habrahabr.ru/*
 // @include www.steamgifts.com/*
 // @include https://www.steamgifts.com/*

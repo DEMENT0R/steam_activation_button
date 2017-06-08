@@ -38,5 +38,5 @@ logo.innerHTML = '<div style="border:none solid gray; width: 32px; height:32px; 
 
     document.body.insertBefore(logo, document.body.firstChild);
     
-//    GM_addStyle (GM_getResourceText ("myCustomCss") );
+    GM_addStyle (GM_getResourceText ("myCustomCss") );
 })();

@@ -14,6 +14,7 @@ This script adds steam activation button on sites:
 </ul>
 etc.
 </strike>
+
 Temporarily everywhere
 
 <h1>Installation</h1>

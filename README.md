@@ -11,6 +11,7 @@ This script adds steam activation button on sites:
 <li>gleam.io</li>
 <li>pikabu.ru</li>
 </ul>
+etc.
 
 <h1>Installation</h1>
 

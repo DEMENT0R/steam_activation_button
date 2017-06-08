@@ -9,7 +9,7 @@
 // @resource ListIcon https://github.com/DEMENT0R/steam_activation_button/raw/master/list.png
 // @resource myCustomCss https://github.com/DEMENT0R/steam_activation_button/raw/master/custom.css
 // @license GNU v3
-// @version 1.025
+// @version 1.026
 // @include habrahabr.ru/*
 // @include www.steamgifts.com/*
 // @include https://www.steamgifts.com/*
@@ -29,10 +29,10 @@
     'use strict';
 
     var logo = document.createElement("div");
-logo.innerHTML = '<div style="border:none solid gray; width: 32px; height:32px; right:10px; border-radius:5px; position:fixed; top:64px; z-index:2000; background: #fff;">' +
+logo.innerHTML = '<div style="border:none solid gray; width: 32px; height:32px; right:7px; border-radius:5px; position:fixed; top:130px; z-index:2000; background: #fff;">' +
     '<a href="steam://open/activateproduct"><img src="https://github.com/DEMENT0R/steam_activation_button/raw/master/key.png" align="center" width="32px" height="32px" alt="Input Key" title="Input Key" /></a>' + 
     '</div>'+
-    '<div style="border:none solid gray; width: 32px; height:32px; right:10px; border-radius:5px; position:fixed; top:98px; z-index:2000; background: #fff;">' +
+    '<div style="border:none solid gray; width: 32px; height:32px; right:7px; border-radius:5px; position:fixed; top:165px; z-index:2000; background: #fff;">' +
     '<a href="steam://open/minigameslist"><img src="https://github.com/DEMENT0R/steam_activation_button/raw/master/list.png" align="center" width="32px" height="32px" alt="My Games" title="My Games" /></a>' + 
     '</div>';
 //    '<div id="panel"> > <div id="hidden_panel">'+

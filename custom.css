@@ -3,11 +3,11 @@
     position: fixed; /* положение */
     top: 100px; /* отступ сверху */
     left: 0; /* отступ слева */
-    background: green; /* цвет фона */
-    width: 30px; /* ширина блока */
+    background: gray; /* цвет фона */
+    width: 15px; /* ширина блока */
     height: 40px; /* высота блока */
     font: 14px Arial; /* размер и тип шрифта */
-    color: #fff; /* цвет текста */
+    color: black; /* цвет текста */
     text-align: center; /* выравнивание текста по центру */
     padding: 5px; /* отступы от границ внутри блока */
 

@@ -10,6 +10,10 @@
 // @resource myCustomCss https://github.com/DEMENT0R/steam_activation_button/raw/master/custom.css
 // @license GNU v3
 // @version 1.027
+// @include     http://*
+// @include     https://*
+// ==/UserScript==
+
 // @include habrahabr.ru/*
 // @include www.steamgifts.com/*
 // @include https://www.steamgifts.com/*
@@ -23,7 +27,6 @@
 // @include https://gleam.io/*
 // @include https://github.com/*
 // @include http://pikabu.ru/*
-// ==/UserScript==
 
 (function() {
     'use strict';

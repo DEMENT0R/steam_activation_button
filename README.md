@@ -11,10 +11,9 @@ This script adds steam activation button on sites:
 <li>simplo.gg</li>
 <li>gleam.io</li>
 <li>pikabu.ru</li>
+<li>etc.</li>
 </ul>
-etc.
 </strike>
-
 Temporarily everywhere
 
 <h1>Installation</h1>

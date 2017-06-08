@@ -25,9 +25,6 @@
 // @include http://pikabu.ru/*
 // ==/UserScript==
 
-//https://steamuserimages-a.akamaihd.net/ugc/775029780384927193/6521F582D9EFF8E5BB747F8B940810F42DB597AF/
-
-
 (function() {
     'use strict';
 

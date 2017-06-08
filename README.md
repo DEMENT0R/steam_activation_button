@@ -1,6 +1,7 @@
 <h1>Steam activation button</h1>
 
 This script adds steam activation button on sites:
+<strike>
 <ul>
 <li>steamgifts.com</li>
 <li>steamcommunity.com</li>
@@ -12,6 +13,8 @@ This script adds steam activation button on sites:
 <li>pikabu.ru</li>
 </ul>
 etc.
+</strike>
+Temporarily everywhere
 
 <h1>Installation</h1>
 

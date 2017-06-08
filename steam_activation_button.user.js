@@ -32,7 +32,7 @@
 logo.innerHTML = '<div style="border:none solid gray; width: 32px; height:32px; right:10px; border-radius:5px; position:fixed; top:64px; z-index:2000; background: #fff;">' +
     '<a href="steam://open/activateproduct"><img src="https://github.com/DEMENT0R/steam_activation_button/raw/master/key.png" align="center" width="32px" height="32px" alt="Input Key" title="Input Key" /></a>' + 
     '</div>'+
-    '<div style="border:none solid gray; width: 32px; height:32px; right:10px; border-radius:5px; position:fixed; top:90px; z-index:2000; background: #fff;">' +
+    '<div style="border:none solid gray; width: 32px; height:32px; right:10px; border-radius:5px; position:fixed; top:98px; z-index:2000; background: #fff;">' +
     '<a href="steam://nav/games"><img src="https://github.com/DEMENT0R/steam_activation_button/raw/master/list.png" align="center" width="32px" height="32px" alt="My Games" title="My Games" /></a>' + 
     '</div>';
 

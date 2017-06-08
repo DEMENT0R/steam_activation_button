@@ -17,6 +17,7 @@
 // @include http://steamcommunity.com/*
 // @include https://www.indiegala.com/*
 // @include https://www.alienwarearena.com/*
+// @include https://www.reddit.com/*
 // @include https://marvelousga.com/*
 // @include https://simplo.gg/*
 // @include https://gleam.io/*

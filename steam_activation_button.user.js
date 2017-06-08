@@ -25,6 +25,10 @@
 // @include https://gleam.io/*
 // @include https://github.com/*
 // @include http://pikabu.ru/*
+// @include http://vk.com/*
+// @include http://*.mail.ru/*
+// @include http://*.google.com/*
+// @include http://*.rambler.ru/*
 
 (function() {
     'use strict';

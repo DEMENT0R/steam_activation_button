@@ -7,11 +7,13 @@
 // @updateURL https://github.com/DEMENT0R/steam_activation_button/raw/master/steam_activation_button.user.js
 // @resource myCustomCss https://github.com/DEMENT0R/steam_activation_button/raw/master/custom.css
 // @license GNU v3
-// @version 1.029
+// @version 1.030
+// @noframes
 // @include     http://*
 // @include     https://*
 // ==/UserScript==
 
+// Temp:
 // @include habrahabr.ru/*
 // @include www.steamgifts.com/*
 // @include https://www.steamgifts.com/*
@@ -30,17 +32,8 @@
 // @include http://*.google.com/*
 // @include http://*.rambler.ru/*
 
-(function (window, undefined) {
-    var w;
-    if (typeof unsafeWindow !== undefined) {
-        w = unsafeWindow;
-    } else {
-        w = window;
-    }
-    if (w.self != w.top) {
-        return;
-    }
-//        'use strict';
+(function() {
+    'use strict';
 
     var logo = document.createElement("div");
 logo.innerHTML = '<div style="border:none solid gray; width: 32px; height:32px; right:3px; border-radius:5px; position:fixed; top:130px; z-index:2000; background: #fff;">' +
@@ -57,4 +50,4 @@ logo.innerHTML = '<div style="border:none solid gray; width: 32px; height:32px; 
     document.body.insertBefore(logo, document.body.firstChild);
     
 //    GM_addStyle (GM_getResourceText ("myCustomCss") );
-})(window);
+})();

@@ -2,7 +2,7 @@
 #SAB_panel {
     position: fixed; /* положение */
     top: 100px; /* отступ сверху */
-    right: -120; /* отступ справа */
+    right: -50; /* отступ справа */
     background: dimgray; /* цвет фона */
     width: 150px; /* ширина блока */
     height: 90px; /* высота блока */

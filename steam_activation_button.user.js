@@ -9,10 +9,12 @@
 // @resource ListIcon https://github.com/DEMENT0R/steam_activation_button/raw/master/list.png
 // @resource myCustomCss https://github.com/DEMENT0R/steam_activation_button/raw/master/SAB.css
 // @license GNU v3
-// @version 1.031
+// @version 1.032
 // @noframes
 // @include     http://*
 // @include     https://*
+// @grant         GM_addStyle
+// @grant         GM_getResourceText
 // ==/UserScript==
 
 // Temp:

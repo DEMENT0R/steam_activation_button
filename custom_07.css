@@ -10,18 +10,18 @@
     color: white; /* цвет текста */
     text-align: center; /* выравнивание текста по центру */
     padding: 5px; /* отступы от границ внутри блока */
-    z-index: 2000;
+    z-index: 2017;
 
     -webkit-transition-duration: 0.3s; /* анимационное выдвижение для всех браузеров*/
     -moz-transition-duration: 0.3s;
     -o-transition-duration: 0.3s;
     transition-duration: 0.3s;
 
-    -webkit-border-radius: 5px 0 0 5px; /* закругление границ для всех браузеров*/
-    -moz-border-radius: 5px 0 0 5px;
-    border-radius: 5px 0 0 5px;
+    -webkit-border-radius: 7px 0 0 7px; /* закругление границ для всех браузеров*/
+    -moz-border-radius: 7px 0 0 7px;
+    border-radius: 7px 0 0 7px;
     }
 
 #SAB_panel:hover {
-    right: 0px; /* при наведении выдвигается */
+    right: -2px; /* при наведении выдвигается */
 }

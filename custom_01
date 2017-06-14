@@ -1,0 +1,33 @@
+/* БЛОК */
+#SAB_panel {
+    position: fixed; /* положение */
+    top: 100px; /* отступ сверху */
+    right: 0; /* отступ справа */
+    background: dimgray; /* цвет фона */
+    width: 150px; /* ширина блока */
+    height: 40px; /* высота блока */
+    font: 14px Arial; /* размер и тип шрифта */
+    color: white; /* цвет текста */
+    text-align: center; /* выравнивание текста по центру */
+    padding: 5px; /* отступы от границ внутри блока */
+    z-index: 2000;
+
+    -webkit-transition-duration: 0.3s; /* анимационное выдвижение для всех браузеров*/
+    -moz-transition-duration: 0.3s;
+    -o-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+
+    -webkit-border-radius: 5px 0 0 5px; /* закругление границ для всех браузеров*/
+    -moz-border-radius: 5px 0 0 5px;
+    border-radius: 5px 0 0 5px;
+    }
+
+#SAB_panel:hover {
+    right: 120px; /* при наведении выдвигается на скрытые 200px + 20px отступы */
+}
+
+/*
+#SAB_panel:hover #SAB_hidden_panel {
+    right: 0; /* отступ слева */
+}
+*/

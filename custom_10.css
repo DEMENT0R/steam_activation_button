@@ -25,7 +25,7 @@
 #SAB_hidden_panel {
     position: fixed; /* положение */
     top: 100px; /* отступ сверху */
-    right: -120px; /* отступ справа */
+    right: -110px; /* отступ справа */
     background: dimgray; /* цвет фона */
     color: white; /* цвет текста */
     width: 100px; /* ширина блока */

@@ -2,7 +2,7 @@
 #SAB_panel {
     position: fixed; /* положение */
     top: 100px; /* отступ сверху */
-    right: 0; /* отступ слева */
+    right: 0; /* отступ справа */
     background: dimgray; /* цвет фона */
     width: 30px; /* ширина блока */
     height: 40px; /* высота блока */
@@ -16,19 +16,19 @@
     -o-transition-duration: 0.3s;
     transition-duration: 0.3s;
 
-    -webkit-border-radius: 0 5px 5px 0; /* закругление границ для всех браузеров*/
-    -moz-border-radius: 0 5px 5px 0;
-    border-radius: 0 5px 5px 0;
+    -webkit-border-radius: 5px 0 0 5px; /* закругление границ для всех браузеров*/
+    -moz-border-radius: 5px 0 0 5px;
+    border-radius: 5px 0 0 5px;
     }
 
 /* СКРЫТЫЙ БЛОК */
 #SAB_hidden_panel {
     position: fixed; /* положение */
     top: 100px; /* отступ сверху */
-    right: -220px; /* отступ слева */
+    right: -220px; /* отступ справа */
     background: dimgray; /* цвет фона */
     color: #000; /* цвет текста */
-    width: 200px; /* ширина блока */
+    width: 100px; /* ширина блока */
     height: 150px; /* высота блока */
     padding: 10px; /* отступы от границ внутри блока */
     text-align: left; /* выравнивание текста */
@@ -43,8 +43,25 @@
     /*border-radius: 0 5px 5px 0;*/
     }
 #SAB_panel:hover {
-    right: 220px; /* при наведении выдвигается на скрытые 200px + 20px отступы */
+    right: 120px; /* при наведении выдвигается на скрытые 200px + 20px отступы */
 }
 #SAB_panel:hover #SAB_hidden_panel {
     right: 0; /* отступ слева */
 }
+
+/* ССЫЛКИ */
+   A.SUB_link:link { 
+    text-decoration: none; /* Убирает подчеркивание для ссылок */
+   } 
+   A.SUB_link:visited { 
+       text-decoration: none; 
+       color: gray;
+    } 
+   A.SUB_link:active { 
+       text-decoration: none; 
+       color: gray;
+    }
+   A.SUB_link:hover {
+       text-decoration: none; /* Делает ссылку подчеркнутой при наведении на нее курсора */
+       color: white; /* Цвет ссылки */
+    } 

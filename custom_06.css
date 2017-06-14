@@ -2,10 +2,10 @@
 #SAB_panel {
     position: fixed; /* положение */
     top: 100px; /* отступ сверху */
-    right: -90px; /* отступ справа */
+    right: -40px; /* отступ справа */
     background: dimgray; /* цвет фона */
-    width: 100px; /* ширина блока */
-    height: 90px; /* высота блока */
+    width: 45px; /* ширина блока */
+    height: 70px; /* высота блока */
     font: 14px Arial; /* размер и тип шрифта */
     color: white; /* цвет текста */
     text-align: center; /* выравнивание текста по центру */
@@ -23,11 +23,5 @@
     }
 
 #SAB_panel:hover {
-    right: 120px; /* при наведении выдвигается на скрытые 200px + 20px отступы */
+    right: 0px; /* при наведении выдвигается */
 }
-
-/*
-#SAB_panel:hover #SAB_hidden_panel {
-    right: 0; /* отступ слева */
-}
-*/

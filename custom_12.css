@@ -25,7 +25,7 @@
 #SAB_hidden_panel {
     position: fixed; /* положение */
     top: 100px; /* отступ сверху */
-    right: -110px; /* отступ справа */
+    right: -120px; /* отступ справа */
     background: dimgray; /* цвет фона */
     color: white; /* цвет текста */
     width: 100px; /* ширина блока */
@@ -43,7 +43,7 @@
     /*border-radius: 0 5px 5px 0;*/
     }
 #SAB_panel:hover {
-    right: 130px; /* при наведении выдвигается на скрытые 200px + 20px отступы */
+    right: 120px; /* при наведении выдвигается на скрытые 200px + 20px отступы */
 }
 #SAB_panel:hover #SAB_hidden_panel {
     right: 0; /* отступ слева */

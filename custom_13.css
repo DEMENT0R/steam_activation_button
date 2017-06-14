@@ -10,6 +10,7 @@
     color: white; /* цвет текста */
     text-align: center; /* выравнивание текста по центру */
     padding: 5px; /* отступы от границ внутри блока */
+    z-index: 2000;
 
     -webkit-transition-duration: 0.3s; /* анимационное выдвижение для всех браузеров*/
     -moz-transition-duration: 0.3s;
@@ -32,6 +33,7 @@
     height: 150px; /* высота блока */
     padding: 10px; /* отступы от границ внутри блока */
     text-align: left; /* выравнивание текста */
+    z-index: 2000;
 
     -webkit-transition-duration: 0.3s; /* анимационное выдвижение для всех браузеров*/
     -moz-transition-duration: 0.3s;

@@ -45,6 +45,6 @@
 #SAB_panel:hover {
     left: 220px; /* при наведении выдвигается на скрытые 200px + 20px отступы */
 }
-#panel:hover #SAB_hidden_panel {
+#SAB_panel:hover #SAB_hidden_panel {
     left: 0; /* отступ слева */
 }

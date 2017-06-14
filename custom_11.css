@@ -30,7 +30,7 @@
     color: white; /* цвет текста */
     width: 100px; /* ширина блока */
     height: 150px; /* высота блока */
-    padding: 5px; /* отступы от границ внутри блока */
+    padding: 10px; /* отступы от границ внутри блока */
     text-align: left; /* выравнивание текста */
 
     -webkit-transition-duration: 0.3s; /* анимационное выдвижение для всех браузеров*/
@@ -43,7 +43,7 @@
     /*border-radius: 0 5px 5px 0;*/
     }
 #SAB_panel:hover {
-    right: 120px; /* при наведении выдвигается на скрытые 200px + 20px отступы */
+    right: 130px; /* при наведении выдвигается на скрытые 200px + 20px отступы */
 }
 #SAB_panel:hover #SAB_hidden_panel {
     right: 0; /* отступ слева */

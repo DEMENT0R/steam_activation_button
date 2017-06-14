@@ -2,10 +2,10 @@
 #SAB_panel {
     position: fixed; /* положение */
     top: 100px; /* отступ сверху */
-    right: 0; /* отступ справа */
+    right: -120; /* отступ справа */
     background: dimgray; /* цвет фона */
     width: 150px; /* ширина блока */
-    height: 40px; /* высота блока */
+    height: 90px; /* высота блока */
     font: 14px Arial; /* размер и тип шрифта */
     color: white; /* цвет текста */
     text-align: center; /* выравнивание текста по центру */

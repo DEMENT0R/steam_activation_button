@@ -3,7 +3,7 @@
     position: fixed; /* положение */
     top: 100px; /* отступ сверху */
     right: -40px; /* отступ справа */
-    background: dimgray; /* цвет фона */
+    background: white; /* цвет фона */
     width: 45px; /* ширина блока */
     height: 70px; /* высота блока */
     font: 14px Arial; /* размер и тип шрифта */

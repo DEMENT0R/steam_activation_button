@@ -7,9 +7,9 @@
 // @updateURL https://github.com/DEMENT0R/steam_activation_button/raw/master/steam_activation_button.user.js
 // @resource KeyIcon https://github.com/DEMENT0R/steam_activation_button/raw/master/key.png
 // @resource ListIcon https://github.com/DEMENT0R/steam_activation_button/raw/master/list.png
-// @resource myCustomCss https://github.com/DEMENT0R/steam_activation_button/raw/master/SAB.css
+// @resource myCustomCss https://github.com/DEMENT0R/steam_activation_button/raw/master/SAB_01.css
 // @license GNU v3
-// @version 1.034
+// @version 1.035
 // @noframes
 // @include     http://*
 // @include     https://*

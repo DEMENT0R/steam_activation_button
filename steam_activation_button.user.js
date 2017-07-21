@@ -53,6 +53,5 @@ logo.innerHTML = '<div id="SAB_panel" style="border: 2px solid gray; background-
 //    '</div>';
 
     document.body.insertBefore(logo, document.body.firstChild);
-    
     GM_addStyle (GM_getResourceText ("myCustomCss") );
 })();

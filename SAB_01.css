@@ -9,6 +9,7 @@
     font: 14px Arial; /* размер и тип шрифта */
     color: white; /* цвет текста */
     text-align: center; /* выравнивание текста по центру */
+    margin: 0px;
     padding: 5px; /* отступы от границ внутри блока */
     z-index: 2017;
 
@@ -24,4 +25,6 @@
 
 #SAB_panel:hover {
     right: -2px; /* при наведении выдвигается */
+    margin: 0px;
+    padding: 0px;
 }

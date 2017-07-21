@@ -9,6 +9,7 @@
     font: 14px Arial; /* размер и тип шрифта */
     color: white; /* цвет текста */
     text-align: center; /* выравнивание текста по центру */
+    margin:0;
     padding: 5px; /* отступы от границ внутри блока */
     z-index: 2000;
 
@@ -31,6 +32,7 @@
     color: white; /* цвет текста */
     width: 100px; /* ширина блока */
     height: 150px; /* высота блока */
+    margin:0;
     padding: 10px; /* отступы от границ внутри блока */
     text-align: left; /* выравнивание текста */
     z-index: 2000;
@@ -54,16 +56,24 @@
 /* ССЫЛКИ */
    A.SUB_link { 
     text-decoration: none; /* Убирает подчеркивание для ссылок */
+    padding:0;
+    margin:0;
    } 
    A.SUB_link:visited { 
        text-decoration: none; 
        color: gray;
+       padding:0;
+       margin:0;
     } 
    A.SUB_link:active { 
        text-decoration: none; 
        color: gray;
+       padding:0;
+       margin:0;
     }
    A.SUB_link:hover {
        text-decoration: none; /* Делает ссылку подчеркнутой при наведении на нее курсора */
        color: white; /* Цвет ссылки */
+       padding:0;
+       margin:0;
     } 
